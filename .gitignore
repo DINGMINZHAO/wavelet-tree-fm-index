@@ -1,0 +1,9 @@
+.DS_Store
+__MACOSX/
+._*
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+code/results/
+code/figures/
